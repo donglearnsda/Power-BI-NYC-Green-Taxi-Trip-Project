@@ -1,6 +1,10 @@
 # Power-BI-NYC-Green-Taxi-Trip-Project
 _The New York Green Taxi Trip Dashboard offers a comprehensive visualization and analysis of green taxi trips in New York City. By leveraging Power BI, this project provides insights into revenue summaries and trip management, aiding stakeholders in making data-driven decisions within the transportation sector._
 
+**Dashboard link:**
+
+https://app.powerbi.com/view?r=eyJrIjoiYTdhMjA3ZjgtMzJjOC00MTliLThiNjQtZmI2NWY0MDQzZDM4IiwidCI6IjcyNGUyZmNjLWEzNGQtNDJkYy04NmRmLTEyZWI1ZGRmMTQ5ZCIsImMiOjEwfQ%3D%3D
+
 **1. About the dataset**
 
 The dataset records from all green taxis in NYC in from 2018 to 2020. Records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
@@ -34,7 +38,3 @@ Data source: https://www.mavenanalytics.io/data-playground?search=trip
 
 - Revenue generated in different perspectives.
 - Trip performance in different perspectives.
-
-**4. Final result:**
-
-Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYTdhMjA3ZjgtMzJjOC00MTliLThiNjQtZmI2NWY0MDQzZDM4IiwidCI6IjcyNGUyZmNjLWEzNGQtNDJkYy04NmRmLTEyZWI1ZGRmMTQ5ZCIsImMiOjEwfQ%3D%3D
